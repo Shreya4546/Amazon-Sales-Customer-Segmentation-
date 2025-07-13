@@ -114,5 +114,5 @@ To build a clean and interactive dashboard that:
 - [📄 Cleaned Dataset](https://github.com/yourusername/Amazon-Sales-Analysis/blob/main/amazon_all_orders_full_status.csv)
 - [📊 Power BI Dashboard](https://github.com/yourusername/Amazon-Sales-Analysis/blob/main/Amazon_Sales_Dashboard.pbix)
 
-  7. 🖼️ Screenshots / Demos
+
 
