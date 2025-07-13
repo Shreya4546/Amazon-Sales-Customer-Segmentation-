@@ -110,9 +110,9 @@ To build a clean and interactive dashboard that:
 ## 6. 📂 Files & GitHub Links
 
 ```markdown
-- [📓 Python Notebook](https://github.com/yourusername/Amazon-Sales-Analysis/blob/main/amazon_sales_analysis.ipynb)
-- [📄 Cleaned Dataset](https://github.com/yourusername/Amazon-Sales-Analysis/blob/main/amazon_all_orders_full_status.csv)
-- [📊 Power BI Dashboard](https://github.com/yourusername/Amazon-Sales-Analysis/blob/main/Amazon_Sales_Dashboard.pbix)
+- [📓 Python Notebook](https://github.com/Shreya4546/Amazon-Sales-Customer-Segmentation-/blob/main/Sales%20Analysis.ipynb)
+- [📄 Cleaned Dataset](https://github.com/Shreya4546/Amazon-Sales-Customer-Segmentation-/blob/main/amazon_sales_data.csv)
+- [📊 Power BI Dashboard](https://github.com/Shreya4546/Amazon-Sales-Customer-Segmentation-/blob/main/Amazon%20Sales%20Dashboard.pbix)
 
 
 
